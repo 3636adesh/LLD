@@ -1,5 +1,5 @@
 /**
- *  write code based on image : docs/images/open-closed.webp
+ *  write code based on image : docs/images/2-open-closed.webp
  *
  */
 

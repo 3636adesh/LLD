@@ -2,7 +2,7 @@
 
 
 /**
- * write code based on image : docs/images/interface-segregation.webp
+ * write code based on image : docs/images/4-interface-segregation.webp
  *
  */
 

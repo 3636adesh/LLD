@@ -9,7 +9,7 @@ The SOLID principles are a set of design guidelines that help developers build m
 
 A class should have only one responsibility, meaning it should have only one reason to change.
 
-![SRP](docs/images/single-responsibility.webp)
+![SRP](docs/images/1-single-responsibility.webp)
 
 
 ### Problems with Multiple Responsibilities:
@@ -23,7 +23,7 @@ This principle aims to separate behaviors so that changes in one part of the sys
 
 ## 2. O — Open/Closed Principle (OCP)
 
-![OCP](docs/images/open-closed.webp)
+![OCP](docs/images/2-open-closed.webp)
 
 Classes should be **open for extension** but **closed for modification**.
 
@@ -37,7 +37,7 @@ To allow the behavior of a class to be extended without altering its existing co
 
 ## 3. L — Liskov Substitution Principle (LSP)
 
-![LSP](docs/images/liskov-substitution.webp)
+![LSP](docs/images/3-liskov-substitution.webp)
 
 If `S` is a subtype of `T`, then objects of type `T` should be replaceable with objects of type `S` without altering the correctness of the program.
 
@@ -57,7 +57,7 @@ To ensure consistency so that parent and child classes can be used interchangeab
 
 ## 4. I — Interface Segregation Principle (ISP)
 
-![ISP](docs/images/interface-segregation.webp)
+![ISP](docs/images/4-interface-segregation.webp)
 
 Clients should not be forced to depend on methods they do not use.
 
@@ -76,7 +76,7 @@ To ensure that a class only implements methods that are relevant to its function
 
 ## 5. D — Dependency Inversion Principle (DIP)
 
-![DIP](docs/images/dependency-inversion.webp)
+![DIP](docs/images/5-dependency-inversion.webp)
 
 - High-level modules should not depend on low-level modules. Both should depend on abstractions.
 - Abstractions should not depend on details. Details should depend on abstractions.

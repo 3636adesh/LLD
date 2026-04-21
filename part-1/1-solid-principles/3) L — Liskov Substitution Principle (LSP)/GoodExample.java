@@ -1,5 +1,5 @@
 /**
- * write code based on image : docs/images/liskov-substitution.webp
+ * write code based on image : docs/images/3-liskov-substitution.webp
  *
  */
 
